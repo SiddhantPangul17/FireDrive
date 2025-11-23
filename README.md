@@ -25,6 +25,3 @@
 - **File Uploads:** Multer
 
 ---
-
-## 📦 Project Structure
-
